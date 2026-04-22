@@ -11,7 +11,7 @@ func handler(w http.ResponseWriter, r *http.Request) {
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>简单的 Go3 Web 页面</title>
+    <title>简单的 Go4 Web 页面</title>
     <style>
         body {
             font-family: Arial, sans-serif;
